@@ -12,6 +12,5 @@
 
 论文题目: Privacy Risks of General-Purpose Language Models
 
-[原文及笔记](2-language model/)
-
+[原文及笔记](2-language-model/)
 
